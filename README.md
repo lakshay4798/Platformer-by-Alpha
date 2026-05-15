@@ -25,9 +25,6 @@ Language: GDScript
 Genre: 2D Platformer
 
 
-Or just play it in your browser on itch.io!
-
-
 🤖 AI Use Declaration
 This project used AI assistance during development:
 Claude (by Anthropic) - used for help with exporting game from godot
